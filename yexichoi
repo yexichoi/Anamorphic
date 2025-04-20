@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>포트폴리오 - Animal Bikkeu</title>
+</head>
+<body>
+  <h1>Animal Bikkeu 비공식 홍보 영상</h1>
+  <p>학생 프로젝트로 제작된 팬메이드 콘셉트 영상입니다.</p>
+
+  <!-- 구글 슬라이드 임베드 -->
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSOYQ7r-sa2XuhdmReMWG9LzOGQLZzgwWpqufSlYYX7SpvvJqNQq83QpCLY7DpRIg/pubembed?start=true&loop=true&delayms=3000" 
+          frameborder="0" width="1280" height="749" 
+          allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</body>
+</html>
